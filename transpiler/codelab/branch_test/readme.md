@@ -1,0 +1,1 @@
+bazel build -c opt //transpile/codelab/test:test_tfhe.transpiled_files
